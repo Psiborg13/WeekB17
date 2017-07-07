@@ -1,9 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PigScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SlingshotScript.cs">
     <Files>
-      <File FileName="Assets\SlingshotScript.cs" Line="42" Column="76" />
-      <File FileName="Assets\PigScript.cs" Line="20" Column="85" />
+      <File FileName="Assets\SlingshotScript.cs" Line="48" Column="61" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
